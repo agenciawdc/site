@@ -536,6 +536,10 @@ a {
   align-items: center;
 }
 
+.footer a { 
+  color: #fff; 
+}
+
 .list-item-3 {
   display: -webkit-box;
   display: -webkit-flex;
